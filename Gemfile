@@ -19,4 +19,4 @@ group :development do
   gem "jekyll-press"
 end
 
-gem 'sinatra', '~> 1.4.2'
+gem 'sinatra', :git => "git://github.com/sinatra/sinatra.git"
