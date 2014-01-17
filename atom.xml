@@ -4,7 +4,7 @@
   <title><![CDATA[Dale Race - Octopress Blog]]></title>
   <link href="http://racedale.github.io/atom.xml" rel="self"/>
   <link href="http://racedale.github.io/"/>
-  <updated>2014-01-13T20:09:55-06:00</updated>
+  <updated>2014-01-17T09:02:33-06:00</updated>
   <id>http://racedale.github.io/</id>
   <author>
     <name><![CDATA[Dale Race]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Added to the website]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/16/added-to-the-website/"/>
+    <updated>2014-01-16T08:31:21-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/16/added-to-the-website</id>
+    <content type="html"><![CDATA[<p>I spent another 4 hours adding to the website and tweaking things.  I added google analytics to the site to track when people visit and what they click on.  I changed the logo for github so that it doesn&rsquo;t look like the Google &lsquo;g&rsquo;, later I&rsquo;ll change the googleplus logo because right now it is a Picasa logo.  Changed the stupid default font for my name and replaced it with Google&rsquo;s Roboto webkit font family.  The search function still doesn&rsquo;t seem to work for me but that&rsquo;s not a crucial difference right now. I added some rake tasks to the rake file that will rename the filenames in the _posts directory so that the filenames will match the post dates (for anytime that the post is created, and worked on for long enough that the post time is different from when it&rsquo;s created.  Because the name of the file is the url).  Another rake task that pings Google, Bing, and Pingomatic about new changes to the website.  I&rsquo;ve contemplated adding a rake task that will make posts unpublished by default, but if I did that I&rsquo;ll have to find a way to delete files from Amazon s3 or else there would be duplicates.<br/>
+Now my method of deploying is:</p>
+
+<pre><code>rake generate   
+git add .   
+git commit -m 'some comment about the post'  
+git push origin source   
+rake deploy   
+rake s3   
+rake notify   
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
