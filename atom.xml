@@ -4,7 +4,7 @@
   <title><![CDATA[Dale Race - Octopress Blog]]></title>
   <link href="http://racedale.github.io/atom.xml" rel="self"/>
   <link href="http://racedale.github.io/"/>
-  <updated>2014-02-26T12:09:19-06:00</updated>
+  <updated>2014-02-26T12:19:38-06:00</updated>
   <id>http://racedale.github.io/</id>
   <author>
     <name><![CDATA[Dale Race]]></name>
@@ -33,7 +33,7 @@
     <id>http://racedale.github.io/blog/2014/01/29/mae-banner</id>
     <content type="html"><![CDATA[<p>This is the banner for mae.truman.edu to accompany the MAE Poster.</p>
 
-<p><img src="http://racedale.github.io/images/posts/mae_banner.jpg" title="MAE Banner" alt="MAE Banner" /></p>
+<p><img src="http://racedale.github.io/images/posts/mae_banner.png" title="MAE Banner" alt="MAE Banner" /></p>
 ]]></content>
   </entry>
   
