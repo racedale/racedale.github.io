@@ -4,7 +4,7 @@
   <title><![CDATA[Dale Race - Octopress Blog]]></title>
   <link href="http://racedale.github.io/atom.xml" rel="self"/>
   <link href="http://racedale.github.io/"/>
-  <updated>2014-02-10T19:02:25-06:00</updated>
+  <updated>2014-02-26T12:09:19-06:00</updated>
   <id>http://racedale.github.io/</id>
   <author>
     <name><![CDATA[Dale Race]]></name>
@@ -23,6 +23,17 @@
 <p>The hardest trouble I had was with javascript.  I&rsquo;m not familiar with it.  I want to have some practical javascript not just some simple little button.  I went about trying to implement Fancybox into the website and spent many hours trying to get it to work.  Eventually I figured it out, the code I used had an extra javascript(); once I took that out it started working.  I went on to use Fancybox for the images and to open and iFrame to load a youtube video.</p>
 
 <p>I really liked the approach of trying to design a website the way a real web designer would have, the tutorials I watched were incredibly valuable.  I had more fun watching the tutorials and learning the pracices than I did actually doing my own work.  For the next project I want to take the same approach, but learn responsive design.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MAE Banner]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/29/mae-banner/"/>
+    <updated>2014-01-29T12:06:14-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/29/mae-banner</id>
+    <content type="html"><![CDATA[<p>This is the banner for mae.truman.edu to accompany the MAE Poster.</p>
+
+<p><img src="http://racedale.github.io/images/posts/mae_banner.jpg" title="MAE Banner" alt="MAE Banner" /></p>
 ]]></content>
   </entry>
   
