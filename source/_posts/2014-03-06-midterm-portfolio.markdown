@@ -35,6 +35,7 @@ These are from the MAE program assignment.  <i>This one is to be graded.</i>
 
 ![MAE Program](/images/posts/midterm_portfolio/mae_poster.jpg "MAE Poster")
 ![MAE Program](/images/posts/midterm_portfolio/mae_index_ad.jpg "MAE Index Ad")
+For some reason the index ad isn't showing up so here is a imgur link: http://i.imgur.com/Vg0JQof.jpg
 ![MAE Program](/images/posts/midterm_portfolio/mae_banner.png "MAE Banner")
 
 
