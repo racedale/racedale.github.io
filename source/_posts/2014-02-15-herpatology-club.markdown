@@ -9,7 +9,7 @@ For this assignment we were supposed to design a poster for the Herpatology Club
 
 ![Herpatology Club](/images/posts/herp_club.jpg "Herpatology Club")
 
-This is the animated banner that we had to make.  Took forever to get it to look smooth.  
+This is the animated banner that we had to make.  Took forever to get it to look smooth.
 
 ![Herpatology Club](/images/posts/herp_banner.gif "Herpatology Club")
 
