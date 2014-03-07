@@ -13,12 +13,12 @@ These spreads are for the "Secret of Feeling Full" and "How Safe" articles.
 
 These are from the Herpatology Club assignment.
 ![Herpatology Club](/images/posts/midterm_portfolio/herp_club.jpg "Herpatology Poster")
-![Herpatology Club](/images/posts/midterm_portfolio/herp_banner.jpg "Herpatology Banner")
+![Herpatology Club](/images/posts/midterm_portfolio/herp_banner.gif "Herpatology Banner")
 ![Herpatology Club](/images/posts/midterm_portfolio/herp_web.jpg "Herpatology Website")
 
 These are from the Jazz Club assignment.
 ![Jazz Combo](/images/posts/midterm_portfolio/jazz_poster.jpg "Jazz Poster")
-![Jazz Combo](/images/posts/midterm_portfolio/jazz_banner.jpg "Jazz Banner")
+![Jazz Combo](/images/posts/midterm_portfolio/jazz_banner.gif "Jazz Banner")
 ![Jazz Combo](/images/posts/midterm_portfolio/jazz_iphone.jpg "Jazz Popup")
 
 These are from the Type Foundry assignment.
@@ -29,7 +29,7 @@ These are from the Type Foundry assignment.
 
 These are from the MAE program assignment.
 ![MAE Program](/images/posts/midterm_portfolio/mae_poster.jpg "MAE Poster")
-![MAE Program](/images/posts/midterm_portfolio/mae_banner.jpg "MAE Banner")
+![MAE Program](/images/posts/midterm_portfolio/mae_banner.png "MAE Banner")
 ![MAE Program](/images/posts/midterm_portfolio/mae_index_ad.jpg "MAE Index Ad")
 
 
