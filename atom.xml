@@ -4,7 +4,7 @@
   <title><![CDATA[Dale Race - Octopress Blog]]></title>
   <link href="http://racedale.github.io/atom.xml" rel="self"/>
   <link href="http://racedale.github.io/"/>
-  <updated>2014-02-27T20:17:18-06:00</updated>
+  <updated>2014-03-06T21:19:16-06:00</updated>
   <id>http://racedale.github.io/</id>
   <author>
     <name><![CDATA[Dale Race]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Midterm Portfolio]]></title>
+    <link href="http://racedale.github.io/blog/2014/03/06/midterm-portfolio/"/>
+    <updated>2014-03-06T20:43:33-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/03/06/midterm-portfolio</id>
+    <content type="html"><![CDATA[<p>This post is for my Midterm Portfolio, it contains the work I&rsquo;ve done over the first half of the semester.  They will be in the order of newest to oldest.</p>
+
+<p>These spreads are for the &ldquo;Secret of Feeling Full&rdquo; and &ldquo;How Safe&rdquo; articles.
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/timemag.jpg" title="Time Magazine" alt="Food Spreads" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/natgeo.jpg" title="National Geographic" alt="Food Spreads" /></p>
+
+<p>These are from the Herpatology Club assignment.
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_club.jpg" title="Herpatology Poster" alt="Herpatology Club" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_banner.jpg" title="Herpatology Banner" alt="Herpatology Club" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_web.jpg" title="Herpatology Website" alt="Herpatology Club" /></p>
+
+<p>These are from the Jazz Club assignment.
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_banner.jpg" title="Jazz Banner" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_iphone.jpg" title="Jazz Popup" alt="Jazz Combo" /></p>
+
+<p>These are from the Type Foundry assignment.
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_website.jpg" title="Type Website" alt="Type Website" /></p>
+
+<p>These are from the MAE program assignment.
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_poster.jpg" title="MAE Poster" alt="MAE Program" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_banner.jpg" title="MAE Banner" alt="MAE Program" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_index_ad.jpg" title="MAE Index Ad" alt="MAE Program" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Herpatology Club]]></title>
@@ -41,6 +75,31 @@
 <p>The hardest trouble I had was with javascript.  I&rsquo;m not familiar with it.  I want to have some practical javascript not just some simple little button.  I went about trying to implement Fancybox into the website and spent many hours trying to get it to work.  Eventually I figured it out, the code I used had an extra javascript(); once I took that out it started working.  I went on to use Fancybox for the images and to open and iFrame to load a youtube video.</p>
 
 <p>I really liked the approach of trying to design a website the way a real web designer would have, the tutorials I watched were incredibly valuable.  I had more fun watching the tutorials and learning the pracices than I did actually doing my own work.  For the next project I want to take the same approach, but learn responsive design.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jazz Combo]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/09/jazz-combo/"/>
+    <updated>2014-02-09T21:02:54-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/09/jazz-combo</id>
+    <content type="html"><![CDATA[<p>This assignment was to redo the Jazz Combo poster for OP.  We were only given 2 colors but a full bleed and had to do an illustration.  I struggled a lot with the illustrations, as is obviously by how bad it looks.  I&rsquo;m definitely better at photography than illustrating.<br/>
+<img src="http://racedale.github.io/images/posts/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/jazz_banner.jpg" title="Jazz Banner" alt="Jazz Combo" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Type Foundry]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/03/type-foundry/"/>
+    <updated>2014-02-03T21:12:10-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/03/type-foundry</id>
+    <content type="html"><![CDATA[<p>This assignment was to create a fake Type Foundry company and then create a brochure for it.  We also had to design a big poster advertising one of the fonts, and a website for the company.
+<img src="http://racedale.github.io/images/posts/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="http://racedale.github.io/images/posts/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/type_website.jpg" title="Type Website" alt="Type Website" />
+Little did we know that we were going to have to code the website ourselves&hellip;</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: VC2 | Dale Race - Octopress Blog]]></title>
   <link href="http://racedale.github.io/blog/categories/vc2/atom.xml" rel="self"/>
   <link href="http://racedale.github.io/"/>
-  <updated>2014-02-27T20:17:18-06:00</updated>
+  <updated>2014-03-06T21:19:16-06:00</updated>
   <id>http://racedale.github.io/</id>
   <author>
     <name><![CDATA[Dale Race]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Midterm Portfolio]]></title>
+    <link href="http://racedale.github.io/blog/2014/03/06/midterm-portfolio/"/>
+    <updated>2014-03-06T20:43:33-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/03/06/midterm-portfolio</id>
+    <content type="html"><![CDATA[<p>This post is for my Midterm Portfolio, it contains the work I&rsquo;ve done over the first half of the semester.  They will be in the order of newest to oldest.</p>
+
+<p>These spreads are for the &ldquo;Secret of Feeling Full&rdquo; and &ldquo;How Safe&rdquo; articles.
+<img src="/images/posts/midterm_portfolio/timemag.jpg" title="Time Magazine" alt="Food Spreads" />
+<img src="/images/posts/midterm_portfolio/natgeo.jpg" title="National Geographic" alt="Food Spreads" /></p>
+
+<p>These are from the Herpatology Club assignment.
+<img src="/images/posts/midterm_portfolio/herp_club.jpg" title="Herpatology Poster" alt="Herpatology Club" />
+<img src="/images/posts/midterm_portfolio/herp_banner.jpg" title="Herpatology Banner" alt="Herpatology Club" />
+<img src="/images/posts/midterm_portfolio/herp_web.jpg" title="Herpatology Website" alt="Herpatology Club" /></p>
+
+<p>These are from the Jazz Club assignment.
+<img src="/images/posts/midterm_portfolio/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="/images/posts/midterm_portfolio/jazz_banner.jpg" title="Jazz Banner" alt="Jazz Combo" />
+<img src="/images/posts/midterm_portfolio/jazz_iphone.jpg" title="Jazz Popup" alt="Jazz Combo" /></p>
+
+<p>These are from the Type Foundry assignment.
+<img src="/images/posts/midterm_portfolio/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="/images/posts/midterm_portfolio/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="/images/posts/midterm_portfolio/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="/images/posts/midterm_portfolio/type_website.jpg" title="Type Website" alt="Type Website" /></p>
+
+<p>These are from the MAE program assignment.
+<img src="/images/posts/midterm_portfolio/mae_poster.jpg" title="MAE Poster" alt="MAE Program" />
+<img src="/images/posts/midterm_portfolio/mae_banner.jpg" title="MAE Banner" alt="MAE Program" />
+<img src="/images/posts/midterm_portfolio/mae_index_ad.jpg" title="MAE Index Ad" alt="MAE Program" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Herpatology Club]]></title>
@@ -32,6 +66,31 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Jazz Combo]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/09/jazz-combo/"/>
+    <updated>2014-02-09T21:02:54-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/09/jazz-combo</id>
+    <content type="html"><![CDATA[<p>This assignment was to redo the Jazz Combo poster for OP.  We were only given 2 colors but a full bleed and had to do an illustration.  I struggled a lot with the illustrations, as is obviously by how bad it looks.  I&rsquo;m definitely better at photography than illustrating.<br/>
+<img src="/images/posts/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="/images/posts/jazz_banner.jpg" title="Jazz Banner" alt="Jazz Combo" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Type Foundry]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/03/type-foundry/"/>
+    <updated>2014-02-03T21:12:10-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/03/type-foundry</id>
+    <content type="html"><![CDATA[<p>This assignment was to create a fake Type Foundry company and then create a brochure for it.  We also had to design a big poster advertising one of the fonts, and a website for the company.
+<img src="/images/posts/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="/images/posts/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="/images/posts/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="/images/posts/type_website.jpg" title="Type Website" alt="Type Website" />
+Little did we know that we were going to have to code the website ourselves&hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[MAE Banner]]></title>
     <link href="http://racedale.github.io/blog/2014/01/29/mae-banner/"/>
     <updated>2014-01-29T12:06:14-06:00</updated>
@@ -39,26 +98,6 @@
     <content type="html"><![CDATA[<p>This is the banner for mae.truman.edu to accompany the MAE Poster.</p>
 
 <p><img src="/images/posts/mae_banner.png" title="MAE Banner" alt="MAE Banner" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MAE Poster]]></title>
-    <link href="http://racedale.github.io/blog/2014/01/28/mae-poster/"/>
-    <updated>2014-01-28T19:14:47-06:00</updated>
-    <id>http://racedale.github.io/blog/2014/01/28/mae-poster</id>
-    <content type="html"><![CDATA[<p>We had to redesign the horrible advertisement for the Truman MAE program.  I went with a photographic approach and put an apple on some books and took pics of it at the library in front of a chalkboard.  I played around with the idea of writing the advertisement on the chalkboard but if I did that it would be harder to remove if I did it wrong than to just put white text on a clean chalkboard. After this we learned how to do the spot color channels in photoshop which more or less just makes me want to not use photos for 2 color projects.<br/>
-<img src="/images/posts/mae_poster.jpg" title="MAE Poster" alt="MAE Poster" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[APO Service Ad]]></title>
-    <link href="http://racedale.github.io/blog/2014/01/20/apo-service-ad/"/>
-    <updated>2014-01-20T19:47:59-06:00</updated>
-    <id>http://racedale.github.io/blog/2014/01/20/apo-service-ad</id>
-    <content type="html"><![CDATA[<p>The assignment was to redesign a poster we found on campus.  The one I did was an advertisement for APO volunteering to help other organizations.  I kept the same idea of having the logo in the middle, which apparently is good for making it easier to remember who the poster is for.  With the old one the hierarchy didn&rsquo;t go along with the message so I made mine so that first you read &lsquo;let&rsquo;s team up&rsquo; then the apo logo, then you go down to the block of information.  Having it tilted by 20 degrees makes it a little more interesting to look at and eye catching, without affecting the readability like 45 degrees would to make your head tilt.<br/>
-<img src="/images/posts/apo_service_ad.jpg" title="APO Service Ad" alt="APO Service AD" /></p>
 ]]></content>
   </entry>
   
