@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
@@ -8,9 +9,193 @@
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
+=======
+  <title><![CDATA[Dale Race - Octopress Blog]]></title>
+  <link href="http://racedale.github.io/atom.xml" rel="self"/>
+  <link href="http://racedale.github.io/"/>
+  <updated>2014-04-10T14:38:40-05:00</updated>
+  <id>http://racedale.github.io/</id>
+  <author>
+    <name><![CDATA[Dale Race]]></name>
+>>>>>>> 8b116c7a7fbabd1b1ab837ca110a7f78e988ad35
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
+<<<<<<< HEAD
+=======
+  <entry>
+    <title type="html"><![CDATA[Error Report]]></title>
+    <link href="http://racedale.github.io/blog/2014/03/24/error-report/"/>
+    <updated>2014-03-24T14:59:56-05:00</updated>
+    <id>http://racedale.github.io/blog/2014/03/24/error-report</id>
+    <content type="html"><![CDATA[<p>For the beverage label project I was missing the magazine ad, the 3 posters, the design of the 6 pack, and the 15 second commercial.  This is an anylization of why I missed the deadline.</p>
+
+<p>The budget on the label was correct and I more or less met that I just spread that time out too much working on other school work. But when I came to the 6 pack carrier I ran into trouble.  The first speed bump was that the HP printer was out of order, and since the project was for 22x28 paper that&rsquo;s what I was planning on using.  I then had to redesign a new style of 6 pack for 17x22 paper so that I could get some physical mock ups and start testing the fit.  I have the fit basically down now and the design work on it is ready to begin.</p>
+
+<p>My main problem would be because of my process.  For the branding and the commercial I needed to use the actual bottle, which meant I couldn&rsquo;t begin that until I had finished the label.  Once that is done I can photograph the bottles for my ads and use them in my commercial.  This process makes the budget for the rest of the project weigh on the first design, and the delays on that design compounded for every design after that.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Midterm Portfolio]]></title>
+    <link href="http://racedale.github.io/blog/2014/03/06/midterm-portfolio/"/>
+    <updated>2014-03-06T20:43:33-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/03/06/midterm-portfolio</id>
+    <content type="html"><![CDATA[<p>This post is for my Midterm Portfolio, it contains the work I&rsquo;ve done over the first half of the semester.  They will be in the order of newest to oldest.</p>
+
+<p>These spreads are for the &ldquo;Secret of Feeling Full&rdquo; and &ldquo;How Safe&rdquo; articles.  <i>This one is not graded.</i></p>
+
+<p><img src="http://racedale.github.io/images/posts/midterm_portfolio/timemag.jpg" title="Time Magazine" alt="Food Spreads" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/natgeo.jpg" title="National Geographic" alt="Food Spreads" /></p>
+
+<p>These are from the Herpatology Club assignment. <i>This one is to be graded.</i></p>
+
+<p><img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_club.jpg" title="Herpatology Poster" alt="Herpatology Club" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_banner.gif" title="Herpatology Banner" alt="Herpatology Club" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/herp_web.jpg" title="Herpatology Website" alt="Herpatology Club" /></p>
+
+<p>These are from the Jazz Club assignment.  <i>This one is not graded.</i></p>
+
+<p><img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_banner.gif" title="Jazz Banner" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/jazz_iphone.jpg" title="Jazz Popup" alt="Jazz Combo" /></p>
+
+<p>These are from the Type Foundry assignment.  <i>This one is to be graded.</i></p>
+
+<p><img src="http://racedale.github.io/images/posts/midterm_portfolio/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/type_website.jpg" title="Type Website" alt="Type Website" /></p>
+
+<p>These are from the MAE program assignment.  <i>This one is to be graded.</i></p>
+
+<p><img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_poster.jpg" title="MAE Poster" alt="MAE Program" />
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_index_ad.jpg" title="MAE Index Ad" alt="MAE Program" />
+For some reason the index ad isn&rsquo;t showing up so here is a imgur link: <a href="http://i.imgur.com/Vg0JQof.jpg">http://i.imgur.com/Vg0JQof.jpg</a>
+<img src="http://racedale.github.io/images/posts/midterm_portfolio/mae_banner.png" title="MAE Banner" alt="MAE Program" /></p>
+
+<p>For my time budgets that I spent on these projects I am proud to say that I don&rsquo;t t hink I really went over budget on any of them, at least not enough to notice.  I made sure to always be under budget by the due date so I&rsquo;d have some left over time to get some revisions done.  My thought process while working on these was to kind of &lsquo;rush&rsquo; it so that I&rsquo;d be able to get the initial progress down and then spend most of my time revising it.  I also spent a significant amount of time coming up with concepts and brainstorming, which I think helped my projects to reduce how many times I&rsquo;d need to start over.  If I wanted to improve my time management I think I just need to make sure my concepts are actually good before I do them, because for the Jazz Combo one it didn&rsquo;t work out.</p>
+
+<p>As far as a general self-reflection, I&rsquo;d say I learned quite a few things of what I am good and what I am bad at.  I think I am good at getting the work done once I know what my idea is, meaning I am good at the computer design work.  I&rsquo;m also decent at coming up with ideas, but it kinda takes a lot of time so I&rsquo;m not that good.  I think I&rsquo;m also decent at taking pictures, but that might be because I know I am terrible at illustrating so I need to be good at it.  I&rsquo;m obviously bad at Illustration, and some times I just make some dumb mistakes layout wise and forget stuff like how the margin is supposed to be and it makes me have to totally start over.  I&rsquo;m also bad at keeping track of my time and printing things off on a regular basis.  Now that I know what this midterm portfolio is like, I&rsquo;m confident I can do a better job for the next one!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Herpatology Club]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/15/herpatology-club/"/>
+    <updated>2014-02-15T18:51:33-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/15/herpatology-club</id>
+    <content type="html"><![CDATA[<p>For this assignment we were supposed to design a poster for the Herpatology Club open house event, which happened to be on Valentine&rsquo;s Day.  We were also required to take our own pics for it.  I had some bit of fun take pics of the reptiles in Magruder, but it was also pretty freaky.  I wasn&rsquo;t having fun being that close to those lizards.  Kept thinking they were gonna get out or something&hellip;  I originally made 3 different layouts because I really like the images I got and couldn&rsquo;t decide which was best.  Eventually I chose this one and the tag line fit really well.  It was weird to break some of the usual things we do and actually use a cheesy script font and a big goofy heart in the background.</p>
+
+<p><img src="http://racedale.github.io/images/posts/herp_club.jpg" title="Herpatology Club" alt="Herpatology Club" /></p>
+
+<p>This is the animated banner that we had to make.  Took forever to get it to look smooth.</p>
+
+<p><img src="http://racedale.github.io/images/posts/herp_banner.gif" title="Herpatology Club" alt="Herpatology Club" /></p>
+
+<p>This is the website design I made for the Herpatology club.  I made sure to type up some content because I wanted it to look more realistic than Lorem Ipsum text.<br/>
+<img src="http://racedale.github.io/images/posts/herp_web.jpg" title="Herpatology Club" alt="Herpatology Club" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Solar Website]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/10/solar-website/"/>
+    <updated>2014-02-10T15:32:05-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/10/solar-website</id>
+    <content type="html"><![CDATA[<p>I spent a lot of time over the past week researching web design and working on our first real project in VisComm 3.  I choose to take a 960.gs approach because after doing some research it became apparent that it was previously a popular way to do web design prior to the responsive web design stuff.  It is a psd file that has columns set up already, you design the website in photoshop, and then use css to layout your site according to how you did it in photoshop.  I figured that since we are all about using grids for print design, it makes sense to use them for web layout as well.  I went with a 12 column grid.</p>
+
+<p>The hardest trouble I had was with javascript.  I&rsquo;m not familiar with it.  I want to have some practical javascript not just some simple little button.  I went about trying to implement Fancybox into the website and spent many hours trying to get it to work.  Eventually I figured it out, the code I used had an extra javascript(); once I took that out it started working.  I went on to use Fancybox for the images and to open and iFrame to load a youtube video.</p>
+
+<p>I really liked the approach of trying to design a website the way a real web designer would have, the tutorials I watched were incredibly valuable.  I had more fun watching the tutorials and learning the pracices than I did actually doing my own work.  For the next project I want to take the same approach, but learn responsive design.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jazz Combo]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/09/jazz-combo/"/>
+    <updated>2014-02-09T21:02:54-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/09/jazz-combo</id>
+    <content type="html"><![CDATA[<p>This assignment was to redo the Jazz Combo poster for OP.  We were only given 2 colors but a full bleed and had to do an illustration.  I struggled a lot with the illustrations, as is obviously by how bad it looks.  I&rsquo;m definitely better at photography than illustrating.<br/>
+<img src="http://racedale.github.io/images/posts/jazz_poster.jpg" title="Jazz Poster" alt="Jazz Combo" />
+<img src="http://racedale.github.io/images/posts/jazz_banner.gif" title="Jazz Banner" alt="Jazz Combo" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Type Foundry]]></title>
+    <link href="http://racedale.github.io/blog/2014/02/03/type-foundry/"/>
+    <updated>2014-02-03T21:12:10-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/02/03/type-foundry</id>
+    <content type="html"><![CDATA[<p>This assignment was to create a fake Type Foundry company and then create a brochure for it.  We also had to design a big poster advertising one of the fonts, and a website for the company.
+<img src="http://racedale.github.io/images/posts/type_poster.jpg" title="Type Poster" alt="Type Poster" />
+<img src="http://racedale.github.io/images/posts/type_brochure.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/type_brochure2.jpg" title="Type Brochure" alt="Type Brochure" />
+<img src="http://racedale.github.io/images/posts/type_website.jpg" title="Type Website" alt="Type Website" />
+Little did we know that we were going to have to code the website ourselves&hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MAE Banner]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/29/mae-banner/"/>
+    <updated>2014-01-29T12:06:14-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/29/mae-banner</id>
+    <content type="html"><![CDATA[<p>This is the banner for mae.truman.edu to accompany the MAE Poster.</p>
+
+<p><img src="http://racedale.github.io/images/posts/mae_banner.png" title="MAE Banner" alt="MAE Banner" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MAE Poster]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/28/mae-poster/"/>
+    <updated>2014-01-28T19:14:47-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/28/mae-poster</id>
+    <content type="html"><![CDATA[<p>We had to redesign the horrible advertisement for the Truman MAE program.  I went with a photographic approach and put an apple on some books and took pics of it at the library in front of a chalkboard.  I played around with the idea of writing the advertisement on the chalkboard but if I did that it would be harder to remove if I did it wrong than to just put white text on a clean chalkboard. After this we learned how to do the spot color channels in photoshop which more or less just makes me want to not use photos for 2 color projects.<br/>
+<img src="http://racedale.github.io/images/posts/mae_poster.jpg" title="MAE Poster" alt="MAE Poster" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[APO Service Ad]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/20/apo-service-ad/"/>
+    <updated>2014-01-20T19:47:59-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/20/apo-service-ad</id>
+    <content type="html"><![CDATA[<p>The assignment was to redesign a poster we found on campus.  The one I did was an advertisement for APO volunteering to help other organizations.  I kept the same idea of having the logo in the middle, which apparently is good for making it easier to remember who the poster is for.  With the old one the hierarchy didn&rsquo;t go along with the message so I made mine so that first you read &lsquo;let&rsquo;s team up&rsquo; then the apo logo, then you go down to the block of information.  Having it tilted by 20 degrees makes it a little more interesting to look at and eye catching, without affecting the readability like 45 degrees would to make your head tilt.<br/>
+<img src="http://racedale.github.io/images/posts/apo_service_ad.jpg" title="APO Service Ad" alt="APO Service AD" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Added to the website]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/16/added-to-the-website/"/>
+    <updated>2014-01-16T08:31:21-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/16/added-to-the-website</id>
+    <content type="html"><![CDATA[<p>I spent another 4 hours adding to the website and tweaking things.  I added google analytics to the site to track when people visit and what they click on.  I changed the logo for github so that it doesn&rsquo;t look like the Google &lsquo;g&rsquo;, later I&rsquo;ll change the googleplus logo because right now it is a Picasa logo.  Changed the stupid default font for my name and replaced it with Google&rsquo;s Roboto webkit font family.  The search function still doesn&rsquo;t seem to work for me but that&rsquo;s not a crucial difference right now. I added some rake tasks to the rake file that will rename the filenames in the _posts directory so that the filenames will match the post dates (for anytime that the post is created, and worked on for long enough that the post time is different from when it&rsquo;s created.  Because the name of the file is the url).  Another rake task that pings Google, Bing, and Pingomatic about new changes to the website.  I&rsquo;ve contemplated adding a rake task that will make posts unpublished by default, but if I did that I&rsquo;ll have to find a way to delete files from Amazon s3 or else there would be duplicates.<br/>
+Now my method of deploying is:</p>
+
+<pre><code>rake generate   
+git add .   
+git commit -m 'some comment about the post'  
+git push origin source   
+rake deploy   
+rake s3   
+rake notify   
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://racedale.github.io/blog/2014/01/13/first-post/"/>
+    <updated>2014-01-13T12:30:13-06:00</updated>
+    <id>http://racedale.github.io/blog/2014/01/13/first-post</id>
+    <content type="html"><![CDATA[<p>This is the first post!  4 hours of fiddling and I&rsquo;ve finally got a blog up and running.  I chose to run my blog using the Octopress framework, it lets me use static files so that I have full control and can practice my html, markup, css, and everything outside of class instead of having a website that does it all for me.  My method is that I am using Amazon S3 for hosting the static files, but using Amazon Cloudfront to distribute those files to provide an increase in speed.  I am also using github as a version control system, that way if I make an mistakes I can always go back to how the site was previously.  I expect I will need that a lot in the beginning.  You can view the github site at racedale.github.io.  It should be the same as this site, one may be more ahead of another depending on what I send the files to first.  Probably github for rough drafts and test but amazon for the final drafts.</p>
+]]></content>
+  </entry>
+  
+>>>>>>> 8b116c7a7fbabd1b1ab837ca110a7f78e988ad35
 </feed>

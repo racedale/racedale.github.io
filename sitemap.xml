@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+<<<<<<< HEAD
         <loc>http://yoursite.com/blog/archives/</loc>
         <lastmod>2014-01-13T12:26:20-06:00</lastmod>
     </url>
@@ -15,5 +16,79 @@
     <url>
         <loc>http://yoursite.com/search.html</loc>
         <lastmod>2014-01-13T12:26:20-06:00</lastmod>
+=======
+        <loc>http://racedale.github.io/blog/2014/01/13/first-post/</loc>
+        <lastmod>2014-01-13T14:04:57-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/01/16/added-to-the-website/</loc>
+        <lastmod>2014-01-17T09:01:02-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/01/20/apo-service-ad/</loc>
+        <lastmod>2014-01-22T19:57:47-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/01/28/mae-poster/</loc>
+        <lastmod>2014-01-29T07:03:39-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/01/29/mae-banner/</loc>
+        <lastmod>2014-02-26T12:19:27-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/02/03/type-foundry/</loc>
+        <lastmod>2014-03-06T21:19:00-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/02/09/jazz-combo/</loc>
+        <lastmod>2014-03-06T22:15:05-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/02/10/solar-website/</loc>
+        <lastmod>2014-02-10T16:37:13-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/02/15/herpatology-club/</loc>
+        <lastmod>2014-02-27T20:30:16-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/03/06/midterm-portfolio/</loc>
+        <lastmod>2014-03-07T10:23:26-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/2014/03/24/error-report/</loc>
+        <lastmod>2014-03-24T15:25:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/archives/</loc>
+        <lastmod>2014-03-24T15:25:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/blog/</loc>
+        <lastmod>2014-03-24T15:25:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/contact/</loc>
+        <lastmod>2013-10-12T12:13:48-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://racedale.github.io/drafts/2012-11-12-the-thin-line-between-awesome-and-awful-in-mobile-advertising.html
+        </loc>
+        <lastmod>2013-10-12T12:13:48-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/</loc>
+        <lastmod>2014-04-10T08:59:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/portfolio/</loc>
+        <lastmod>2014-03-28T17:13:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/portfolio/Resume/</loc>
+        <lastmod>2014-03-28T17:14:00-05:00</lastmod>
+>>>>>>> 8b116c7a7fbabd1b1ab837ca110a7f78e988ad35
     </url>
 </urlset>

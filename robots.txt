@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow: 
 
 Sitemap: http://yoursite.com/sitemap.xml 
+=======
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
+
+User-agent: *
+>>>>>>> 8b116c7a7fbabd1b1ab837ca110a7f78e988ad35
