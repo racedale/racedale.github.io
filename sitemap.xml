@@ -49,15 +49,29 @@
         <lastmod>2014-03-24T15:25:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://racedale.github.io/</loc>
+        <loc>http://racedale.github.io/blog/</loc>
         <lastmod>2014-03-24T15:25:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://racedale.github.io/robots.txt</loc>
-        <lastmod>2014-01-13T12:21:26-06:00</lastmod>
+        <loc>http://racedale.github.io/contact/</loc>
+        <lastmod>2013-10-12T12:13:48-05:00</lastmod>
     </url>
     <url>
-        <loc>http://racedale.github.io/search.html</loc>
-        <lastmod>2014-01-13T12:26:20-06:00</lastmod>
+        <loc>
+            http://racedale.github.io/drafts/2012-11-12-the-thin-line-between-awesome-and-awful-in-mobile-advertising.html
+        </loc>
+        <lastmod>2013-10-12T12:13:48-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/</loc>
+        <lastmod>2014-04-10T08:59:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/portfolio/</loc>
+        <lastmod>2014-03-28T17:13:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://racedale.github.io/portfolio/Resume/</loc>
+        <lastmod>2014-03-28T17:14:00-05:00</lastmod>
     </url>
 </urlset>
