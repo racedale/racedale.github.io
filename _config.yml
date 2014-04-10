@@ -41,7 +41,7 @@ rdiscount:
     - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 5          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -62,11 +62,18 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+# Portfolio
+portfolio_root: /portfolio
+portfolio_path: /Volumes/Macbook SSD/Users/dalerace/racedale.github.io/source/portfolio
+
 # Github repositories
 github_user: racedale
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
+
+# Linked-In
+linkedin_user: racedale
 
 # Twitter
 twitter_user:
@@ -101,6 +108,9 @@ facebook_like: false
 
 #Tapir Search
 tapir_token: 52d94d7ef48eac0200000006
+
+#Skype
+skype_user:
 
 #Lastfm
 lastfm_user: sweetfunk
