@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Dreamweaver Workbook</title>
+<link rel="stylesheet" type="text/css" href="cinema8.css"/>
+<link rel="stylesheet" type="text/css" href="navbar.css"/>
+<link rel="stylesheet" type="text/css" href="table.css"/>
+<script src="js/DoubleTapToGo.js"></script>
+<script type="text/javascript" src="js/imdb_rating.js"></script>
+<meta name="viewport" content="width=device-width">
+<style type="text/css">
+img.poster {
+max-height: 400px;	
+width: 300px;
+margin-top: 5px;
+margin-right: 10px;
+}
+
+.row {
+width: 100%;	
+}
+
+div.description p {
+	font-size:18px;	
+}
+
+div.description p.showtime{
+font-size:14px;	
+}
+
+div.description {
+max-width: 100%;	
+}
+
+div.moviereel {
+width: 100%;
+}
+
+</style>
+
+</head>
+<body>
+
+<div id="centernav">
+    <div id="navbar">
+    <div id="lefttriangle"></div>
+    <div id="horizontalcenter">
+        <ul>
+           <li><a href="index.html">HOME</a></li>
+           <li><a href="specials.html">SPECIALS & PROMOTIONS</a></li>
+           <li><a href="concessions.html">CONCESSIONS</a></li>
+           <li><a href="about.html">ABOUT US</a></li>
+        </ul>
+    </div>
+    <div id="righttriangle"></div>
+    </div>
+</div>
+
+<!--Secondary nav bar-->
+<div id="nav" role="navigation">
+    <a href="#nav" title="Show navigation"></a>
+    <a href="#" title="Hide navigation"></a>
+    <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li>
+            <a href="specials.html" aria-haspopup="true">SPECIALS & PROMOTIONS</a>
+        </li>
+        <li>
+            <a href="concessions.html" aria-haspopup="true">CONCESSIONS</a>
+        </li>
+        <li><a href="about.html">ABOUT US</a></li>
+    </ul>
+</div>
+<!--End secondary nav bar-->
+
+
+<header>
+<a href="index.html">
+    <div class="banner">
+    <img src="assets/bannertext.svg" alt="Downtown Cinema 8" class="bannersvg">
+        <div class="bannertext">
+            <h5>115  North  Elson ,  Kirksville ,  MO  63501 &nbsp; /  &nbsp; 660 - 665 - 5684  &nbsp; / &nbsp;  dtc8@swbell.net
+            </h5>
+        </div>
+    </div>
+</a> 
+</header>
+    
+<div class="ulti">
+    <div id="container">
+        <div id="content">
+        <h1><a href="index.html">NOW PLAYING</a></h1>
+        <hr class="orange">
+        
+    <div class="row">
+        <div class="moviereel">
+         
+            <div class="poster">
+                <a href="https://www.youtube.com/watch?v=OmaI1nInDOs"><img src="assets/spiderman2.jpg" class="poster" alt="movieposter">
+                </a>
+            </div>
+            
+            <div class="description">
+            <h2 style='font-size: 36px;'>The Amazing Spider-man 2</h2>
+                <p>For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation can’t come quickly enough. Peter hasn’t forgotten about the promise he made to Gwen’s father to protect her by staying away, but that’s a promise he just can’t keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past .
+               <br><br>
+Rated: PG-13 for sequences of sci-fi action/violence. 
+<br>
+Length, including previews:   2:30.
+<br> 
+Starring: Andrew Garfield, Emma Stone, Jamie Foxx. 
+<br>
+                </p>
+                <div>
+                    <p class="showtime">3-D  Fri.  @  5:00,  8:30       Sat.  &  Sun.  @  2:10,  5:00,  8:30     Mon.  -  Thu.  @  5:00,  8:30
+                    <br>
+2-D  Fri.  @  4:00,  7:20       Sat.  &  Sun.  @  1:05,  4:00,  7:20     Mon.  -  Thu.  @  4:00,  7:20
+                    </p>
+                </div>
+                <!-- IMDb Ratings section.  To update replace both "tt#######" parts with the number from the imdb movie URL. -->
+                <span class="imdbRatingPlugin" data-user="ur48041486" data-title="tt1872181" data-style="p4">
+                    <a href="http://www.imdb.com/title/tt1872181/?ref_=plg_rt_1">
+                        <img src="http://g-ecx.images-amazon.com/images/G/01/imdb/plugins/rating/images/imdb_31x14.png" alt="IMDb Rating" />
+                    </a>
+                    
+              </span>
+
+                
+                <script type="text/javascript" src="js/imdb_rating.js">			
+		          </script>
+            </div>
+        </div>  
+    </div>
+        
+        </div>
+    <div id="twoasides">
+        
+            <aside class="ticketprices">
+            <h1>TICKET PRICES</h1>
+            <hr class="black">
+            <table>
+               <tr>
+                <th class="bold ">Kids</th>
+                <td>$6.50</td>
+                <td class="bold">3D</td>
+                <td>$9.00</td>
+               </tr>
+                <tr>
+                <th class="bold ">Students</th>
+                <td>$7.00</td>
+                <td class="bold">3D</td>
+                <td>$9.50</td>
+               </tr>
+                <tr>
+                <th class="bold ">Adults</th>
+                <td>$7.50</td>
+                <td class="bold">3D</td>
+                <td>$11.00</td>
+               </tr>
+                <tr>
+                <th class="bold first">Sr. Citizens</th>
+                <td>$6.50</td>
+                <td class="bold">3D</td>
+                <td>$9.00</td>
+               </tr>
+            </table>
+            <p>*To receive the student or senior citizen discount an I.D. must be provided upon request.<br>
+            *Discounts are also available for members of the U.S. military provided they have a current miliary I.D.<br>
+            <a href="specials.html">Click here for additional promotions!</a>
+            </p>
+            </aside>
+            
+            <aside class="two">
+            <h1 class="black">LOCATION</h1>
+            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:300px;width:300px;"><div id="gmap_canvas" style="height:300px;width:300px;"></div><a class="google-map-code" href="http://www.map-embed.com" id="get-map-data">important site</a><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(40.1948276,-92.584317),mapTypeId: google.maps.MapTypeId.HYBRID};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(40.1948276, -92.584317)});infowindow = new google.maps.InfoWindow({content:"<b>Downtown Cinema 8</b><br/>115 North Elson<br/>63501 Kirksville" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer class="top">
+    <div class="social vert_center">
+		<a class="google" href="http://www.google.com/movies?hl=en&amp;near=Kirksville,+MO&amp;dq=downtown+cinema+8&amp;tid=7dfd053026bd7297&amp;sa=X&amp;ei=B5xmU-OEOcfIyAG0-ICICg&amp;ved=0CCkQxQMoAA" title="Google+">Google</a>
+		<a class="facebook" href="https://www.facebook.com/pages/Downtown-Cinema-8/150292038331322" title="Facebook">Facebook</a>
+		<a class="twitter" href="http://www.twitter.com/">Twitter</a> 
+        <a class="email" href="mailto:dtc8@swbell.net">Email</a>
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a> 
+	</div>
+</footer>
+<footer class="bottom">
+    <p class="vert_center">Downtown Cinemea 8  &nbsp; / &nbsp;  Site Designed by Dale Race, Henry Smith, Joe Wright &nbsp; /  &nbsp; 660 - 665 - 5684  &nbsp;</p>
+</footer>
+<script>
+	$( function()
+	{
+		$( '#nav li:has(ul)' ).doubleTapToGo();
+	});
+</script>
+</body>
+</html>

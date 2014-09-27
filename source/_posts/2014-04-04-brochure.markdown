@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Brochure"
+date: 2014-04-04 21:30:29 -0500
+comments: true
+categories: VC2
+---
+I choose to do my brochure for a local to Kirksville thing about the history of the service fraternity I am in.  There is a lot of content, almost 6000 words which is a little over the 5000 word requirement.  The extra amount of words makes the brochure hard to layout to keep it visually appealing.  It will be a challenge but I'm getting the hang of it.  I still need to get some more pictures for the later spreads but so far it's coming along better than I expected so soon.
+
+<a href="/images/posts/epsilon_history.pdf">Link to pdf</a>

@@ -1,0 +1,370 @@
+/* CSS Document */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+h1{
+	font-family:"Gill Sans";
+	font-size:25px;
+	font-weight:300;
+	color:#e49f28;
+	line-height:40px;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+}
+h1 a{
+    color:#e49f28;}
+h1 a:hover {
+    color: #222;}
+h2{
+	font-family:"Gill Sans";
+	font-size:18px;
+	font-weight:300;
+	font-style:oblique;
+	color:#e49f28;
+	line-height:1em;
+    margin: 0;}
+h2 a {
+    color:#e49f28;}
+h2 a:hover {
+    color:#222;}
+h5{
+	font-family:"Gill Sans";
+	font-size:13px;
+	font-weight:100;
+	font-style:oblique;
+	color:#FFFFFF;
+	line-height:15px;
+	letter-spacing:.75px;}
+
+p{
+	font-family:"Gill Sans";
+	font-size:12px;
+	font-weight:100;
+	line-height: 20px;
+}
+
+p.orange{
+	font-family:"Gill Sans";
+	font-size:12px;
+	font-weight:100;
+	line-height: 20px;
+	color:#e49f28;;}
+
+ul{
+	font-family:"Gill Sans";
+	font-size:12px;
+	font-weight:100;
+	line-height: 25px;}
+
+ol{
+	font-family:"Gill Sans";
+	font-size:12px;
+	font-weight:100;
+	line-height: 25px;}
+
+a{
+	text-decoration:none;
+	color:#999999;
+	font-weight:400;}
+
+a:hover{
+	text-decoration:none;
+	color:#e49f28;}
+
+body{
+	width:100%;}
+header{
+	height:150px;
+	padding-top:50px;
+	margin-bottom:40px;
+    width: 100%;
+    z-index:-1;}
+
+div.banner{
+	z-index: 5;
+	background-color:#000000;
+	height:150px;
+	width:100%;
+	margin:0;
+	position:absolute;}
+
+div.bannertext{
+	z-index: 5;
+	margin-right:auto;
+	margin-left:auto;
+    text-align: center;
+	}
+
+img.bannersvg{
+	z-index: 5;
+	margin-top:20px;
+	margin-left:auto;
+	width:40%;
+	margin-right:auto;
+	margin-bottom:-5px;
+	display:block;}
+
+hr.banner{
+	width:39%;
+	border-color:#e49f28;
+	margin-bottom:-10px;}
+
+img.bannersvg {
+	padding-bottom: 5px;
+border-bottom-style:solid;
+border-bottom-width:2px;
+border-bottom-color: hsla(38,77%,57%,1.00);
+z-index: 5;
+}
+
+@media (max-width:700px) {
+    img.bannersvg{
+    width: 70%;
+    vertical-align: middle;
+	z-index: 5;}
+    div.banner {
+    height: 12%;
+	z-index: 5;}
+    div.bannertext {
+    display: none;
+	z-index: 5;}
+}
+@media (min-width:1360px) {
+	div.bannertext {
+    display: none;
+	z-index: 5;}
+}
+#heading_active{
+    color:#e49f28;
+}
+#heading_active:hover {
+    color: #222;
+}
+#divider {
+    margin: 0;
+    display: inline;
+    color: #222;
+    font-size: 25pt;
+    line-height: 1em;
+}
+#heading_passive{
+    color: #aaa;
+}
+#heading_passive:hover{
+    color: #222;
+}
+hr.black{
+width: 300px;
+border-color: black;
+}
+
+hr.orange{
+	width:100%;
+	float:left;
+	border-color:#e49f28;
+	margin-bottom:15px;}
+
+hr.black{
+	width:100%;
+	float:left;
+	border-color:#e49f28;
+	margin-bottom:15px;
+}
+div.ulti{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+#container {
+	width: 85%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+#content{
+	width:90%;
+	min-width:200px;
+	max-width:900px;
+	margin-right:20px;
+	margin-top:0px;
+	margin-bottom:10px;
+	background-color:#FFFFFF;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+.moviereel{
+	display: block;
+	width:90%;
+	min-width:260px;
+	height:100%;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	float:left;
+}
+img.poster{
+	max-height: 200px;
+    margin: .5em;
+    width: 140px;
+	float: left;
+}
+.description{
+    width:60%;
+	float:left;
+    position: relative;
+}
+@media (max-width: 700px) {
+    #content {
+    width:100%}
+    .description {
+        width:100%;
+        display: inline-block;
+    }
+    .moviereel h2 {
+        float: left;
+    }
+}
+@media (min-width: 1250px) {
+.row {
+  width: 50%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+    }
+#twoasides {
+    float:left;}
+}
+/*---Side bar area---*/
+aside.ticketprices {
+	width:300px;
+	padding-left:15px;
+	padding-right:20px;
+	padding-top:0px;
+	margin-bottom:20px;
+	margin-right:20px;
+	background-color:#FFFFFF;
+    display: inline-block;
+    float: left;
+}
+aside.two {
+	padding-left:15px;
+	padding-right:15px;
+	background-color:#FFFFFF;
+    margin-bottom: 20px;
+    display: inline-block;
+    float: left;
+}
+ #twoasides {
+    max-width: 750px;    
+    width: auto;
+}
+@media (min-width: 1500px) {
+#twoasides {
+    width: 350px;
+    float: left;
+    height: 100%
+    }
+}
+/*---Footer Area---*/
+footer {
+    width: 100%;
+    display: inline-block;
+	text-align:center;
+    position:relative;
+}
+footer.top{
+	background-color:#e49f28;
+	height:40px;
+	color:#000000;
+    line-height: 1em;
+}
+footer.bottom{
+    background-color:#000000;
+	color:#FFFFFF;
+	height:50px;
+	font-family:"Gill Sans";
+	font-size:.8em;
+	font-weight:100;
+    clear: both;
+    padding-bottom: 5px;
+}
+footer p {
+    margin: 0;
+}
+.vert_center {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.social a {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    text-indent: -9999px;
+    margin-right: 15px;
+    opacity: 0.7;
+    width: 28px;
+    height: 28px;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+.social a:hover {
+    opacity: 1;
+}
+.social a.facebook {
+    background: url('assets/social/facebook.png') center no-repeat #3b5998;
+    border: 1px solid #3B5998;
+}
+.social a.facebook:hover {
+    border: 1px solid #2d4373;
+}
+.social a.google {
+    background: url('assets/social/google.png') center no-repeat #c83d20;
+    border: 1px solid #C83D20;
+}
+.social a.google:hover {
+    border: 1px solid #9c3019;
+}
+.social a.twitter {
+    background: url('assets/social/twitter.png') center no-repeat #55cff8;
+    border: 1px solid #55CFF8;
+}
+.social a.twitter:hover {
+    border: 1px solid #24c1f6;
+}
+.social a.email {
+    background: url('assets/social/email_icon.png') center no-repeat #afb6ca;
+    border: 1px solid #afb6ca;
+}
+.social a.email:hover {
+    border: 1px solid #909ab6;
+}
+.social a.rss {
+    background: url('assets/social/rss.png') center no-repeat #ef7522;
+    border: 1px solid #EF7522;
+}
+.social a.rss:hover {
+    border: 1px solid #cf5d0f;
+}
