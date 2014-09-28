@@ -17,4 +17,5 @@ I definitely enjoy doing landscapes.  Maybe it's that Bob Ross effect, but it's 
 ![Illustrations](/images/posts/illustration-landscape10.jpeg "Illustrations")
 ![Illustrations](/images/posts/illustration-landscape11.jpeg "Illustrations")
 
+Thought I'd have some fun with drawing a bird and do something silly by doing Road Runner.  It actually had some challenges I wasn't expecting... since it was a cartoon it was very flat and I had to sort of create some shadows on it's feet to make them look correct.  Also since it was a cartoon, it needed to have bright colors which meant I had to do multiple coats and mix up some new paint to get it right.
 ![Illustrations](/images/posts/illustration-bird2.jpeg "Illustrations")
