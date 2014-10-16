@@ -18,6 +18,9 @@ All in all, I'm looking forward to doing more illustrations, but I already know 
 ![Hand Illustrations](/images/posts/illustration-hand2.jpg)
 ![Hand Illustrations](/images/posts/illustration-hand3.jpg)
 ![Hand Illustrations](/images/posts/illustration-hand4.jpg)
+![Arnold Illustrations](/images/posts/illustration-arnold.jpg)
+![Walter Illustrations](/images/posts/illustration-walt.jpg)
+
 
 ####Watercolor 10-a-day
 ![Watercolor](/images/posts/illustration-landscape2.jpeg)
