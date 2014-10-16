@@ -1,5 +1,4 @@
 $max-width: 1000px;
-
 *{
 	margin: 0;
 	padding: 0;
@@ -41,7 +40,7 @@ a{
 	@include pie-clearfix;
 }
 .inner{
-	width: $max-width;
+	width: auto;
 	margin: 0 auto;
 	@media screen and (max-width: 1040px){
 		width: 100%;

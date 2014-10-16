@@ -34,7 +34,7 @@ body {
 		float: none;
 		margin-left: 0px;
 
-		ul { 
+		ul {
 			li {
 				margin-left: 0px;
 				display: block;
@@ -75,7 +75,7 @@ body {
 	.blog-container {
 		background: $GDL-light-grey;
 	}
-	
+
 	.mid-col {
 		float: right;
 		width: 60%;
@@ -84,7 +84,7 @@ body {
 		.mid-col-container {
 			padding: 0px 70px 0px 40px;
 
-			#content {
+			.content {
 				width: 100%;
 				color: #555;
 				a {
@@ -260,14 +260,14 @@ body {
 							-webkit-transition: color 0.3s;
 							-moz-transition: color 0.3s;
 							-o-transition: color 0.3s;
-							transition: color 0.3s;	
+							transition: color 0.3s;
 						}
 						a:hover {
 							color: $greyshade;
 							-webkit-transition: color 0.3s;
 							-moz-transition: color 0.3s;
 							-o-transition: color 0.3s;
-							transition: color 0.3s;	
+							transition: color 0.3s;
 						}
 					}
 				}
@@ -309,7 +309,7 @@ body {
 				// text-align: center;
 				width: 120px;
 			}
-			
+
 		}
 
 
@@ -319,7 +319,7 @@ body {
 			a {
 				color: #fff;
 			}
-			
+
 			a:hover {
 				text-shadow: 0px 1px #999;
 				color: #FCFCFC;
@@ -332,7 +332,7 @@ body {
 				margin-right: 15px;
 				font-size: 14px;
 				font-weight: bold;
-				a { 
+				a {
 					color: #555;
 				}
 				a:hover {
@@ -397,7 +397,7 @@ body {
 			width: 100%;
 			.site-logo {
 				margin-top: 0px;
-				.container { 
+				.container {
 					font-size: 60pt;
 					line-height: 80px;
 					img {
@@ -417,7 +417,7 @@ body {
 					margin-bottom: 30px;
 				}
 				#main-nav {
-					ul {	
+					ul {
 						display: block;
 						li {
 							display: inline;
@@ -439,7 +439,7 @@ body {
 						margin-bottom: 90px;
 					}
 
-					.description { 
+					.description {
 						font-size: 14px;
 					}
 					.tag {
